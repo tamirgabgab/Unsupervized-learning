@@ -11,3 +11,6 @@ Clustering refers to a broad set of techniques for finding subgroups or clusters
 1. Algorithms - contain the implementation of unsupervizes algorithms such as Kmeans, UOFC and AHC.
 2. Datasets - contain all saved datasets (in .mat file) and the scrifts which create those datasets.
 
+## Requirements
+
+MATLAB 2018
